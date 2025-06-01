@@ -130,9 +130,7 @@ Exercises to test understanding of block and inline display types.
 </td>
 <td>
 
-*coming soon*
-
-<!-- ![example recipe page  after]() -->
+![example recipe page after](./img/rp-after.png)
 
 </td>
 </tr>
