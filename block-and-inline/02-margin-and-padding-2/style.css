@@ -43,3 +43,10 @@ button {
   margin: auto;
   padding: 8px 24px;
 }
+
+/*
+  >> NOTE <<
+  Solution favours `margin: 0 auto;`. I did not think this was necessary; but,
+  it makes sense to set rather than leave this styling to the whim of the
+  browser.
+*/
