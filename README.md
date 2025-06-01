@@ -15,14 +15,12 @@ Exercises to test understanding of block and inline display types.
 
 ## Results
 
-*coming soon*
-
-<!-- <table>
+<table>
 
 <tr>
 <td width="47%">
 
-### 01 - CSS Methods
+### 01 - Margin & Padding 1
 
 </td>
 <td width="6%"></td>
@@ -32,13 +30,13 @@ Exercises to test understanding of block and inline display types.
 <tr>
 <td>
 
-#### UNSTYLED
+#### BEFORE
 
 </td>
 <td></td>
 <td>
 
-#### STYLED
+#### AFTER
 
 </td>
 </tr>
@@ -46,7 +44,7 @@ Exercises to test understanding of block and inline display types.
 <tr>
 <td>
 
-![css methods unstyled](./img/unstyled1.png)
+![margin and padding 1 before](./img/bai1-before.png)
 
 </td>
 <td align="center">
@@ -54,7 +52,7 @@ Exercises to test understanding of block and inline display types.
 </td>
 <td>
 
-![css methods styled](./img/styled1.png)
+![margin and padding 1 after](./img/bai1-after.png)
 
 </td>
 </tr>
@@ -62,7 +60,7 @@ Exercises to test understanding of block and inline display types.
 <tr>
 <td>
 
-### 02 - Class ID Selectors
+### 02 - Margin & Padding 2
 
 </td>
 <td></td>
@@ -72,13 +70,13 @@ Exercises to test understanding of block and inline display types.
 <tr>
 <td>
 
-#### UNSTYLED
+#### BEFORE
 
 </td>
 <td></td>
 <td>
 
-#### STYLED
+#### AFTER
 
 </td>
 </tr>
@@ -86,7 +84,7 @@ Exercises to test understanding of block and inline display types.
 <tr>
 <td>
 
-![css methods unstyled](./img/unstyled2.png)
+![margin and padding 2 before](./img/bai2-before.png)
 
 </td>
 <td align="center">
@@ -94,129 +92,9 @@ Exercises to test understanding of block and inline display types.
 </td>
 <td>
 
-![css methods styled](./img/styled2.png)
+![margin and padding 2 after](./img/bai2-after.png)
 
 </td>
 </tr>
 
-<tr>
-<td>
-
-### 03 - Grouping Selectors
-
-</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>
-
-#### UNSTYLED
-
-</td>
-<td></td>
-<td>
-
-#### STYLED
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-![grouping selectors unstyled](./img/unstyled3.png)
-
-</td>
-<td align="center">
-<h1>&rArr;</h1>
-</td>
-<td>
-
-![grouping selectors styled](./img/styled3.png)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 04 - Chaining Selectors
-
-</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>
-
-#### UNSTYLED
-
-</td>
-<td></td>
-<td>
-
-#### STYLED
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-![chaining selectors unstyled](./img/unstyled4.png)
-
-</td>
-<td align="center">
-<h1>&rArr;</h1>
-</td>
-<td>
-
-![chaining selectors styled](./img/styled4.png)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 05 - Descendant Combinator
-
-</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>
-
-#### UNSTYLED
-
-</td>
-<td></td>
-<td>
-
-#### STYLED
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-![descendant combinator unstyled](./img/unstyled5.png)
-
-</td>
-<td align="center">
-<h1>&rArr;</h1>
-</td>
-<td>
-
-![descendant combinator styled](./img/styled5.png)
-
-</td>
-</tr>
-
-</table> -->
+</table>
