@@ -10,9 +10,9 @@ Exercises to test understanding of block and inline display types.
 
 ## Assignment Instructions
 
- - ### [01 - Margin & Padding 1 &rArr;](./block-and-inline/01-margin-and-padding-1/)
- - ### [02 - Margin & Padding 2 &rArr;](./block-and-inline/02-margin-and-padding-2/)
- - ### [03 - Add CSS Style To Recipe Project &rArr;](./recipe-css/)
+ - [01 - Margin & Padding 1 &rArr;](./block-and-inline/01-margin-and-padding-1/)
+ - [02 - Margin & Padding 2 &rArr;](./block-and-inline/02-margin-and-padding-2/)
+ - [03 - Add CSS Style To Recipe Project &rArr;](./recipe-css/)
 
 ## Results
 
